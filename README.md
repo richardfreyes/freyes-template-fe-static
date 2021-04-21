@@ -1,6 +1,6 @@
-# PSD Wizard Bootstrap 4 Template
+# Richard FReyes Template
 
-A boilerplate for Bootstrap projects using Sass 7-1 architecture and JS revealing module patterns.
+A boilerplate for static projects using Sass 7-1 architecture and JS revealing module patterns.
 
 ## Features
 
